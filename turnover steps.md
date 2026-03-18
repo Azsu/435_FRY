@@ -1,9 +1,9 @@
 1. Clean
-   * [] Top surfaces cleaned
-   * [] Wall plates removed
-   * [] Window frame cleaned
-   * []
+   * [ ] Wall plates removed
+   * [ ] Top surfaces cleaned
+   * [ ] Window frame cleaned
+   * [ ]
 
 2. Prepare
-   * []
+   * [ ]
    * 
